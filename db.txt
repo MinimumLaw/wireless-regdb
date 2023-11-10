@@ -1501,6 +1501,15 @@ country QA: DFS-ETSI
 	(5725 - 5875 @ 80), (100 mW), NO-OUTDOOR, DFS
 	(57000 - 66000 @ 2160), (40), NO-OUTDOOR
 
+#
+# Ravion required self-designed regulatory rules, use non-present country code
+#
+country RA:
+	(2400 - 2500 @ 40), (37)
+	(5100 - 5925 @ 80), (37)
+	(5875 - 7195 @ 160), (37)
+	
+
 country RE: DFS-ETSI
 	(2402 - 2482 @ 40), (20)
 	(5170 - 5250 @ 80), (20), AUTO-BW, wmmrule=ETSI

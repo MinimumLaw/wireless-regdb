@@ -1,2 +1,5 @@
 key.priv.pem
 dbparse.pyc
+*.hex
+.custom
+__pycache__
