@@ -1505,10 +1505,10 @@ country QA: DFS-ETSI
 # Ravion required self-designed regulatory rules, use non-present country code
 #
 country RA:
-	(2400 - 2500 @ 40), (37)
-	(5100 - 5925 @ 80), (37)
-	(5875 - 7195 @ 160), (37)
-	
+	(2400 - 2500 @ 40), (40)
+	(5100 - 5925 @ 80), (40)
+	(5925 - 7125 @ 320), (40)
+	(57000 - 66000 @ 2160), (40)
 
 country RE: DFS-ETSI
 	(2402 - 2482 @ 40), (20)
